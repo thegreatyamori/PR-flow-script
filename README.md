@@ -9,7 +9,7 @@ Github API Docs
 
 ## Info
 
-In order to use GH API, you need a GH token (PAT)
+In order to use GH API, you need a GH token (PAT) with repo permissions
 ![image](https://github.com/thegreatyamori/PR-flow-script/assets/20387293/29ece733-4283-444e-a31b-1bae5c55a276)
 
 
